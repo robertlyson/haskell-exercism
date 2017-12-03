@@ -1,0 +1,144 @@
+
+==================== FINAL INTERFACE ====================
+2017-05-05 18:16:51.9857286 UTC
+
+interface difference-of-squares-0.0.0-KKCxabCW0rtBcqSc0SC7jr:Squares 8002
+  interface hash: 81065db3b961790e516b0fb9b039c4bd
+  ABI hash: 451a814ccad03ca4920e306f81f6f750
+  export-list hash: df9f1c164f469565f857707514fd5a42
+  orphan hash: 693e9af84d3dfcc71e640e005bdc5e2e
+  flag hash: 6afe13224aedeef930039c5dc659fa04
+  sig of: Nothing
+  used TH splices: False
+  where
+exports:
+  Squares.difference
+  Squares.squareOfSums
+  Squares.sumOfSquares
+module dependencies:
+package dependencies: base-4.9.1.0* ghc-prim-0.5.0.0
+                      integer-gmp-1.0.0.1
+orphans: base-4.9.1.0:GHC.Base base-4.9.1.0:GHC.Float
+family instance modules: base-4.9.1.0:Control.Applicative
+                         base-4.9.1.0:Data.Either base-4.9.1.0:Data.Functor.Const
+                         base-4.9.1.0:Data.Monoid base-4.9.1.0:Data.Type.Equality
+                         base-4.9.1.0:GHC.Generics base-4.9.1.0:GHC.IO.Exception
+                         base-4.9.1.0:GHC.TypeLits
+import  -/  base-4.9.1.0:Data.Foldable 254e836c2d813d34e47feb29bb8d40ed
+import  -/  base-4.9.1.0:GHC.Base 4caea1123ecf4b46e27cbccd6d279377
+import  -/  base-4.9.1.0:GHC.Num 38b8aac8807c096c7f3ca3c1eff02939
+import  -/  base-4.9.1.0:GHC.Real b88ae4a48c079652623073a5bbf5c9b0
+import  -/  base-4.9.1.0:Prelude 74b3e204395920329f6de9d97206abe9
+05c1e913f35c76d570df4fdcbb092efd
+  $trModule :: GHC.Types.Module
+  {- HasNoCafRefs, Strictness: m,
+     Unfolding: (GHC.Types.Module
+                   Squares.$trModule2
+                   Squares.$trModule1) -}
+7bd6d7b45cee04d2fd235a73f5801b9e
+  $trModule1 :: GHC.Types.TrName
+  {- HasNoCafRefs, Strictness: m1,
+     Unfolding: (GHC.Types.TrNameS "Squares"#) -}
+713ca41d3443afc1f530892d27cfb0dd
+  $trModule2 :: GHC.Types.TrName
+  {- HasNoCafRefs, Strictness: m1,
+     Unfolding: (GHC.Types.TrNameS
+                   "difference-of-squares-0.0.0-KKCxabCW0rtBcqSc0SC7jr"#) -}
+bea8ca7e7c891dbc56dbad3445fbdb52
+  difference :: GHC.Real.Integral a => a -> a
+  {- Arity: 2,
+     Strictness: <S(S(S(LC(C(S))LLLLL)LL)LLLLLLLL),U(U(U(U,U,U,U,U,U,U),U,U),U(A,A,A,A,A,A,C(C1(U)),A),A,A,A,A,A,A,A)><L,U>,
+     Unfolding: (\ @ a ($dIntegral :: GHC.Real.Integral a) (eta :: a) ->
+                 GHC.Num.-
+                   @ a
+                   (GHC.Real.$p1Real @ a (GHC.Real.$p1Integral @ a $dIntegral))
+                   (Squares.squareOfSums @ a $dIntegral eta)
+                   (Squares.sumOfSquares @ a $dIntegral eta)) -}
+eb20278be7eb138c183162c26d50f7b7
+  squareOfSums :: GHC.Real.Integral a => a -> a
+  {- Arity: 2,
+     Strictness: <S(SLLLLLLLL),U(1*U,1*U(A,A,A,A,A,A,1*C1(C1(U)),A),A,A,A,A,A,A,A)><L,U>,
+     Unfolding: (\ @ a ($dIntegral :: GHC.Real.Integral a) (eta :: a) ->
+                 let {
+                   $dReal :: GHC.Real.Real a = GHC.Real.$p1Integral @ a $dIntegral
+                 } in
+                 let {
+                   $dNum :: GHC.Num.Num a = GHC.Real.$p1Real @ a $dReal
+                 } in
+                 case GHC.Classes.==
+                        @ a
+                        (GHC.Classes.$p1Ord @ a (GHC.Real.$p2Real @ a $dReal))
+                        eta
+                        (GHC.Num.fromInteger @ a $dNum Squares.sumOfSquares2) of wild {
+                   GHC.Types.False
+                   -> let {
+                        ds :: a
+                        = case GHC.Enum.enumFromTo
+                                 @ a
+                                 (GHC.Real.$p2Integral @ a $dIntegral)
+                                 (GHC.Num.fromInteger @ a $dNum Squares.sumOfSquares1)
+                                 eta of wild1 {
+                            [] -> GHC.List.foldl2 @ a
+                            : x xs
+                            -> let {
+                                 k :: a -> a -> a = GHC.Num.+ @ a $dNum
+                               } in
+                               letrec {
+                                 go :: [a] -> a -> a {- Arity: 2, Strictness: <S,1*U><L,U> -}
+                                 = \ (ds1 :: [a]) (eta1 :: a) ->
+                                   case ds1 of wild2 { [] -> eta1 : y ys -> go ys (k eta1 y) }
+                               } in
+                               go xs x }
+                      } in
+                      GHC.Num.* @ a $dNum ds ds
+                   GHC.Types.True
+                   -> GHC.Num.fromInteger @ a $dNum Squares.sumOfSquares2 }) -}
+2b4aaf4195a1e8906b5e24be499b1ba0
+  sumOfSquares :: GHC.Real.Integral a => a -> a
+  {- Arity: 2, HasNoCafRefs,
+     Strictness: <S(SLLLLLLLL),U(1*U,1*U(A,A,A,A,A,A,1*C1(C1(U)),A),A,A,A,A,A,A,A)><L,U>,
+     Unfolding: (\ @ a ($dIntegral :: GHC.Real.Integral a) (eta :: a) ->
+                 let {
+                   $dReal :: GHC.Real.Real a = GHC.Real.$p1Integral @ a $dIntegral
+                 } in
+                 let {
+                   $dNum :: GHC.Num.Num a = GHC.Real.$p1Real @ a $dReal
+                 } in
+                 case GHC.Classes.==
+                        @ a
+                        (GHC.Classes.$p1Ord @ a (GHC.Real.$p2Real @ a $dReal))
+                        eta
+                        (GHC.Num.fromInteger @ a $dNum Squares.sumOfSquares2) of wild {
+                   GHC.Types.False
+                   -> let {
+                        k :: a -> a -> a = GHC.Num.+ @ a $dNum
+                      } in
+                      letrec {
+                        go :: [a] -> a -> a {- Arity: 2, Strictness: <S,1*U><L,U> -}
+                        = \ (ds :: [a]) (eta1 :: a) ->
+                          case ds of wild1 {
+                            [] -> eta1 : y ys -> go ys (k eta1 (GHC.Num.* @ a $dNum y y)) }
+                      } in
+                      go
+                        (GHC.Enum.enumFromTo
+                           @ a
+                           (GHC.Real.$p2Integral @ a $dIntegral)
+                           (GHC.Num.fromInteger @ a $dNum Squares.sumOfSquares1)
+                           eta)
+                        (GHC.Num.fromInteger @ a $dNum Squares.sumOfSquares2)
+                   GHC.Types.True
+                   -> GHC.Num.fromInteger @ a $dNum Squares.sumOfSquares2 }) -}
+c931763946aa24d06f83b99222b5a715
+  sumOfSquares1 :: GHC.Integer.Type.Integer
+  {- HasNoCafRefs, Unfolding: (1) -}
+cd33c830629dc24b1bb073f4b9d593b8
+  sumOfSquares2 :: GHC.Integer.Type.Integer
+  {- HasNoCafRefs, Unfolding: (0) -}
+vectorised variables:
+vectorised tycons:
+vectorised reused tycons:
+parallel variables:
+parallel tycons:
+trusted: safe
+require own pkg trusted: False
+

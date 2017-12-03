@@ -1,0 +1,1360 @@
+Check assemblies in: C:\the moi\projects\aba-proinform\ProAudit\bin
+Checking file ABA.ProInform.Domain.dll
+Checking file ABA.ProInform.Transport.dll
+Checking file Common.Logging.Core.dll
+Checking file Common.Logging.dll
+Checking file DevOne.Security.Cryptography.BCrypt.dll
+Checking file DocumentFormat.OpenXml.dll
+Checking file Elasticsearch.Net.dll
+Checking file EntityFramework.dll
+Checking file EntityFramework.Extended.dll
+Checking file EntityFramework.SqlServer.dll
+Checking file EPPlus.dll
+Checking file EXIFextractor.dll
+Checking file GreenPipes.dll
+Checking file ICSharpCode.SharpZipLib.dll
+Checking file LinqKit.dll
+Checking file Magnum.dll
+Checking file MassTransit.dll
+Checking file MassTransit.NLogIntegration.dll
+Checking file MassTransit.RabbitMqTransport.dll
+Checking file Microsoft.AnalysisServices.AdomdClient.dll
+Checking file Microsoft.AnalysisServices.dll
+Checking file Microsoft.AspNet.SignalR.Core.dll
+Checking file Microsoft.AspNet.SignalR.SystemWeb.dll
+Checking file Microsoft.Owin.dll
+Checking file Microsoft.Owin.Host.SystemWeb.dll
+Checking file Microsoft.Owin.Security.dll
+Checking file Microsoft.Practices.ServiceLocation.dll
+Checking file Microsoft.Practices.Unity.Configuration.dll
+Checking file Microsoft.Practices.Unity.dll
+Checking file Microsoft.Practices.Unity.RegistrationByConvention.dll
+Checking file Microsoft.Web.Infrastructure.dll
+Checking file MoI.ProInform.BuildingBlocks.AccountManagement.dll
+Checking file MoI.ProInform.BuildingBlocks.AdvancedSearch.dll
+Checking file MoI.ProInform.BuildingBlocks.BusinessCalendar.dll
+Checking file MoI.ProInform.BuildingBlocks.CommonDataTransferObjects.dll
+Checking file MoI.ProInform.BuildingBlocks.CompanyResourcesManagement.Services.dll
+Checking file MoI.ProInform.BuildingBlocks.ConfigurationManagement.dll
+Checking file MoI.ProInform.BuildingBlocks.DataAccessAbstraction.dll
+Checking file MoI.ProInform.BuildingBlocks.DomainModel.dll
+Checking file MoI.ProInform.BuildingBlocks.DomainModel.MassTransitDomainEventBus.dll
+Checking file MoI.ProInform.BuildingBlocks.DomainUtils.dll
+Checking file MoI.ProInform.BuildingBlocks.Fields.dll
+Checking file MoI.ProInform.BuildingBlocks.MailsNotifications.dll
+Checking file MoI.ProInform.BuildingBlocks.Mappers.ChartMapper.dll
+Checking file MoI.ProInform.BuildingBlocks.Mappers.TableMapper.dll
+Checking file MoI.ProInform.BuildingBlocks.OrganizationStructure.dll
+Checking file MoI.ProInform.BuildingBlocks.ProAudit.ApiController.dll
+Checking file MoI.ProInform.BuildingBlocks.ProAudit.dll
+Checking file MoI.ProInform.BuildingBlocks.ProInform.ApiController.dll
+Checking file MoI.ProInform.BuildingBlocks.ProInform.dll
+Checking file MoI.ProInform.BuildingBlocks.ProInform.MassTransitHandlers.dll
+Checking file MoI.ProInform.BuildingBlocks.ProInform.Notifications.dll
+Checking file MoI.ProInform.BuildingBlocks.ProInform.Notifications.Unity.dll
+Checking file MoI.ProInform.BuildingBlocks.ProInform.Notifications.Web.dll
+Checking file MoI.ProInform.BuildingBlocks.ProInform.PushNotificationMassTransit.dll
+Checking file MoI.ProInform.BuildingBlocks.ProInform.Scheduler.Services.Implementation.dll
+Checking file MoI.ProInform.BuildingBlocks.ProInform.Scheduler.Tasks.dll
+Checking file MoI.ProInform.BuildingBlocks.ProInform.Scheduler.Web.Unity.dll
+Checking file MoI.ProInform.BuildingBlocks.SignalrUtils.dll
+Checking file MoI.ProInform.BuildingBlocks.SmartMenu.DataProviders.dll
+Checking file MoI.ProInform.BuildingBlocks.SmartMenu.dll
+Checking file MoI.ProInform.BuildingBlocks.SystemRoles.ApiController.dll
+Checking file MoI.ProInform.BuildingBlocks.User.AuthProvider.dll
+Checking file MoI.ProInform.BuildingBlocks.User.CallContext.dll
+Checking file MoI.ProInform.BuildingBlocks.User.CallContext.Web.dll
+Checking file MoI.ProInform.BuildingBlocks.User.dll
+Checking file MoI.ProInform.BuildingBlocks.User.PasswordReset.dll
+Checking file MoI.ProInform.BuildingBlocks.User.RoleProvider.dll
+Checking file MoI.ProInform.BuildingBlocks.UserActivity.dll
+Checking file MoI.ProInform.BuildingBlocks.WebUtils.dll
+Checking file Mvc.Mailer.dll
+Checking file Nest.dll
+Checking file NewId.dll
+Checking file Newtonsoft.Json.dll
+Checking file NLog.dll
+Checking file NSubstitute.dll
+Checking file Owin.dll
+Checking file Polly.dll
+Checking file ProAudit.dll
+Checking file Quartz.dll
+Checking file RabbitMQ.Client.dll
+Checking file RazorEngine.dll
+Checking file Remotion.Data.Linq.dll
+Checking file Simple.Data.Ado.dll
+Checking file Simple.Data.dll
+Checking file Simple.Data.SqlServer.dll
+Checking file StackifyLib.dll
+Checking file StackifyLib.nLog.dll
+Checking file System.IO.Abstractions.dll
+Checking file System.Net.Http.dll
+Checking file System.Net.Http.Formatting.dll
+Checking file System.Net.Http.WebRequest.dll
+Checking file System.Web.Helpers.dll
+Checking file System.Web.Http.dll
+Checking file System.Web.Http.WebHost.dll
+Checking file System.Web.Mvc.dll
+Checking file System.Web.Providers.dll
+Checking file System.Web.Razor.dll
+Checking file System.Web.WebPages.Deployment.dll
+Checking file System.Web.WebPages.dll
+Checking file System.Web.WebPages.Razor.dll
+Checking file Unity.AutoRegistration.dll
+Checking file Unity.Mvc4.dll
+Checking file Unity.WebApi.dll
+Checking reference mscorlib
+Checking reference System.Core
+Checking reference MoI.ProInform.BuildingBlocks.UserActivity
+Checking reference System
+Checking reference System.Data
+Checking reference System.Configuration
+Checking reference System.ComponentModel.DataAnnotations
+Checking reference NLog
+Checking reference System.Drawing
+Checking reference Microsoft.CSharp
+Checking reference mscorlib
+Checking reference System.Xml
+Checking reference WindowsBase
+Checking reference System.Runtime.Serialization
+Checking reference System.Transactions
+Checking reference System.Xml.Linq
+Checking reference System.Runtime.Caching
+Checking reference System.Security
+Checking reference mscorlib
+Checking reference System.Drawing
+Checking reference System.Web
+Checking reference mscorlib
+Checking reference System
+Checking reference System.Core
+Checking reference Newtonsoft.Json
+Checking reference System.Data
+Checking reference System.Xml
+Checking reference System.Drawing
+Checking reference Microsoft.AnalysisServices.SPClient.Interfaces
+Checking reference System.Configuration
+Checking reference System.Web
+Checking reference System
+Checking reference System.Runtime
+Checking reference System.Reflection
+Checking reference System.Collections
+Checking reference System.Linq.Expressions
+Checking reference System.Resources.ResourceManager
+Checking reference System.Globalization
+Checking reference System.Diagnostics.Tools
+Checking reference System.Linq
+Checking reference System.Diagnostics.Debug
+Checking reference System.Runtime.Extensions
+Checking reference System.Threading
+Checking reference System.Reflection.Extensions
+Checking reference System.Web.ApplicationServices
+Checking reference EntityFramework
+Checking reference MoI.ProInform.BuildingBlocks.Fields
+Checking reference MoI.ProInform.BuildingBlocks.DomainModel
+Checking reference MoI.ProInform.BuildingBlocks.User.CallContext
+Checking reference MoI.ProInform.BuildingBlocks.DataAccessAbstraction
+Checking reference MoI.ProInform.BuildingBlocks.User
+Checking reference MoI.ProInform.BuildingBlocks.ProInform
+Checking reference MoI.ProInform.BuildingBlocks.CommonDataTransferObjects
+Checking reference MoI.ProInform.BuildingBlocks.DataAccessAbstraction
+Checking reference MoI.ProInform.BuildingBlocks.DomainUtils
+Checking reference MoI.ProInform.BuildingBlocks.Fields
+Checking reference MoI.ProInform.BuildingBlocks.User.CallContext
+Checking reference MoI.ProInform.BuildingBlocks.CommonDataTransferObjects
+Checking reference MoI.ProInform.BuildingBlocks.User
+Checking reference Newtonsoft.Json
+Checking reference MoI.ProInform.BuildingBlocks.DomainModel
+Checking reference MoI.ProInform.BuildingBlocks.CommonDataTransferObjects
+Checking reference MoI.ProInform.BuildingBlocks.ProInform
+Checking reference MoI.ProInform.BuildingBlocks.ProAudit
+Checking reference MoI.ProInform.BuildingBlocks.ProInform.ApiController
+Checking reference MoI.ProInform.BuildingBlocks.CommonDataTransferObjects
+Checking reference NLog
+Checking reference MoI.ProInform.BuildingBlocks.ConfigurationManagement
+Checking reference MoI.ProInform.BuildingBlocks.AdvancedSearch
+Checking reference System.Net.Http
+Checking reference MoI.ProInform.BuildingBlocks.ProInform
+Checking reference MoI.ProInform.BuildingBlocks.User
+Checking reference MoI.ProInform.BuildingBlocks.Fields
+Checking reference MoI.ProInform.BuildingBlocks.User
+Checking reference MoI.ProInform.BuildingBlocks.ConfigurationManagement
+Checking reference MoI.ProInform.BuildingBlocks.Fields
+Checking reference EPPlus
+Checking reference System.Web.Http
+Checking reference MoI.ProInform.BuildingBlocks.User.AuthProvider
+Checking reference MoI.ProInform.BuildingBlocks.DomainUtils
+Checking reference MoI.ProInform.BuildingBlocks.DataAccessAbstraction
+Checking reference MoI.ProInform.BuildingBlocks.ProInform.Notifications
+Checking reference MoI.ProInform.BuildingBlocks.ProInform.Notifications.Web
+Checking reference MoI.ProInform.BuildingBlocks.User.CallContext
+Checking reference MoI.ProInform.BuildingBlocks.ProInform.Notifications
+Checking reference MoI.ProInform.BuildingBlocks.SmartMenu
+Checking reference MoI.ProInform.BuildingBlocks.BusinessCalendar
+Checking reference MoI.ProInform.BuildingBlocks.Fields
+Checking reference MoI.ProInform.BuildingBlocks.BusinessCalendar
+Checking reference MoI.ProInform.BuildingBlocks.User
+Checking reference MoI.ProInform.BuildingBlocks.CommonDataTransferObjects
+Checking reference MoI.ProInform.BuildingBlocks.User
+Checking reference MoI.ProInform.BuildingBlocks.ProAudit
+Checking reference MoI.ProInform.BuildingBlocks.User
+Checking reference System.Web.Mvc
+Checking reference MoI.ProInform.BuildingBlocks.WebUtils
+Checking reference NLog
+Checking reference System.Net.Http.Formatting
+Checking reference MoI.ProInform.BuildingBlocks.ProInform
+Checking reference System.Web.Http.WebHost
+Checking reference System.Web.Mvc
+Checking reference System.ServiceModel
+Checking reference System.Management
+Checking reference System.Numerics
+Checking reference System.IO.Compression
+Checking reference System.Runtime.Remoting
+Checking reference System.ComponentModel.Composition
+Checking reference System.Data.DataSetExtensions
+Checking reference StackifyLib
+Checking reference System.Web.Extensions
+Checking reference System.Web.DataVisualization
+Checking reference System.Web.Razor
+Checking reference System.Data.Linq
+Checking reference System.Data.Entity
+Detailing only conflicting assembly references.
+Reference: EntityFramework
+  EntityFramework, Version=4.4.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: NotFound
+    4.4.0.0 by MoI.ProInform.BuildingBlocks.AccountManagement, Version=1.0.7.0, Culture=neutral, PublicKeyToken=null
+  EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\EntityFramework.dll
+    6.0.0.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by EntityFramework.Extended, Version=6.0.0.0, Culture=neutral, PublicKeyToken=05b7e29bdd433584
+    6.0.0.0 by EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.AdvancedSearch, Version=7.2.0.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.BusinessCalendar, Version=1.2.3.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.ConfigurationManagement, Version=1.2.1.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.DataAccessAbstraction, Version=1.2.4.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.OrganizationStructure, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform, Version=3.1.2.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications, Version=2.0.6.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.SmartMenu, Version=4.1.6.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.User, Version=1.7.3.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.UserActivity, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: EPPlus
+  EPPlus, Version=4.0.4.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1
+Source: NotFound
+    4.0.4.0 by MoI.ProInform.BuildingBlocks.ProInform, Version=3.1.2.0, Culture=neutral, PublicKeyToken=null
+  EPPlus, Version=4.1.0.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\EPPlus.dll
+    4.1.0.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.1.0.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    4.1.0.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+
+Reference: Microsoft.AnalysisServices.SPClient.Interfaces
+  Microsoft.AnalysisServices.SPClient.Interfaces, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\assembly\GAC_MSIL\Microsoft.AnalysisServices.SPClient.Interfaces\11.0.0.0__89845dcd8080cc91\Microsoft.AnalysisServices.SPClient.Interfaces.dll
+    11.0.0.0 by Microsoft.AnalysisServices, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91
+
+Reference: Microsoft.CSharp
+  Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Microsoft.CSharp\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.CSharp.dll
+    4.0.0.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Elasticsearch.Net, Version=5.0.0.0, Culture=neutral, PublicKeyToken=96c599bbe3e70f5d
+    4.0.0.0 by EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    4.0.0.0 by EntityFramework.Extended, Version=6.0.0.0, Culture=neutral, PublicKeyToken=05b7e29bdd433584
+    4.0.0.0 by EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    4.0.0.0 by Microsoft.AspNet.SignalR.Core, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.AdvancedSearch, Version=7.2.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.Mappers.ChartMapper, Version=1.1.1.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform, Version=3.1.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.MassTransitHandlers, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications.Web, Version=4.0.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.PasswordReset, Version=1.1.4.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Nest, Version=5.0.0.0, Culture=neutral, PublicKeyToken=96c599bbe3e70f5d
+    4.0.0.0 by RazorEngine, Version=3.9.3.0, Culture=neutral, PublicKeyToken=9ee697374c7e744a
+    4.0.0.0 by Simple.Data, Version=0.19.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Simple.Data.Ado, Version=0.19.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by System.Web.Helpers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.WebPages, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+Reference: MoI.ProInform.BuildingBlocks.AdvancedSearch
+  MoI.ProInform.BuildingBlocks.AdvancedSearch, Version=7.0.0.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    7.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.AdvancedSearch, Version=7.2.0.0, Culture=neutral, PublicKeyToken=null
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\MoI.ProInform.BuildingBlocks.AdvancedSearch.dll
+    7.2.0.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    7.2.0.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    7.2.0.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    7.2.0.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: MoI.ProInform.BuildingBlocks.BusinessCalendar
+  MoI.ProInform.BuildingBlocks.BusinessCalendar, Version=1.1.2.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.1.2.0 by MoI.ProInform.BuildingBlocks.SmartMenu.DataProviders, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.BusinessCalendar, Version=1.2.1.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.2.1.0 by MoI.ProInform.BuildingBlocks.SmartMenu, Version=4.1.6.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.BusinessCalendar, Version=1.2.3.0, Culture=neutral, PublicKeyToken=null
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\MoI.ProInform.BuildingBlocks.BusinessCalendar.dll
+    1.2.3.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    1.2.3.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+
+Reference: MoI.ProInform.BuildingBlocks.CommonDataTransferObjects
+  MoI.ProInform.BuildingBlocks.CommonDataTransferObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.0.0.0 by MoI.ProInform.BuildingBlocks.AdvancedSearch, Version=7.2.0.0, Culture=neutral, PublicKeyToken=null
+    1.0.0.0 by MoI.ProInform.BuildingBlocks.User.PasswordReset, Version=1.1.4.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.CommonDataTransferObjects, Version=1.2.3.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.2.3.0 by MoI.ProInform.BuildingBlocks.SmartMenu, Version=4.1.6.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.CommonDataTransferObjects, Version=1.3.3.2, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.3.3.2 by MoI.ProInform.BuildingBlocks.CompanyResourcesManagement.Services, Version=1.15.4.0, Culture=neutral, PublicKeyToken=null
+    1.3.3.2 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    1.3.3.2 by MoI.ProInform.BuildingBlocks.User, Version=1.7.3.0, Culture=neutral, PublicKeyToken=null
+    1.3.3.2 by MoI.ProInform.BuildingBlocks.User.AuthProvider, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null
+    1.3.3.2 by MoI.ProInform.BuildingBlocks.User.CallContext.Web, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.CommonDataTransferObjects, Version=2.2.1.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    2.2.1.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    2.2.1.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+    2.2.1.0 by MoI.ProInform.BuildingBlocks.SystemRoles.ApiController, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+    2.2.1.0 by MoI.ProInform.BuildingBlocks.WebUtils, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.CommonDataTransferObjects, Version=2.4.0.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    2.4.0.0 by MoI.ProInform.BuildingBlocks.Mappers.ChartMapper, Version=1.1.1.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.CommonDataTransferObjects, Version=2.4.17.0, Culture=neutral, PublicKeyToken=null
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\MoI.ProInform.BuildingBlocks.CommonDataTransferObjects.dll
+    2.4.17.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    2.4.17.0 by ABA.ProInform.Transport, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    2.4.17.0 by MoI.ProInform.BuildingBlocks.Mappers.TableMapper, Version=2.5.22.0, Culture=neutral, PublicKeyToken=null
+    2.4.17.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: MoI.ProInform.BuildingBlocks.ConfigurationManagement
+  MoI.ProInform.BuildingBlocks.ConfigurationManagement, Version=1.1.1.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.1.1.0 by MoI.ProInform.BuildingBlocks.ProInform, Version=3.1.2.0, Culture=neutral, PublicKeyToken=null
+    1.1.1.0 by MoI.ProInform.BuildingBlocks.ProInform.Scheduler.Web.Unity, Version=3.0.1.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.ConfigurationManagement, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.2.0.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.ConfigurationManagement, Version=1.2.1.0, Culture=neutral, PublicKeyToken=null
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\MoI.ProInform.BuildingBlocks.ConfigurationManagement.dll
+    1.2.1.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    1.2.1.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    1.2.1.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: MoI.ProInform.BuildingBlocks.DataAccessAbstraction
+  MoI.ProInform.BuildingBlocks.DataAccessAbstraction, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.0.0.0 by MoI.ProInform.BuildingBlocks.BusinessCalendar, Version=1.2.3.0, Culture=neutral, PublicKeyToken=null
+    1.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform, Version=3.1.2.0, Culture=neutral, PublicKeyToken=null
+    1.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+    1.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.MassTransitHandlers, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+    1.0.0.0 by MoI.ProInform.BuildingBlocks.SmartMenu, Version=4.1.6.0, Culture=neutral, PublicKeyToken=null
+    1.0.0.0 by MoI.ProInform.BuildingBlocks.SystemRoles.ApiController, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+    1.0.0.0 by MoI.ProInform.BuildingBlocks.User.CallContext, Version=1.4.0.0, Culture=neutral, PublicKeyToken=null
+    1.0.0.0 by MoI.ProInform.BuildingBlocks.User.PasswordReset, Version=1.1.4.0, Culture=neutral, PublicKeyToken=null
+    1.0.0.0 by MoI.ProInform.BuildingBlocks.User.RoleProvider, Version=1.0.6.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.DataAccessAbstraction, Version=1.0.8.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.0.8.0 by MoI.ProInform.BuildingBlocks.AdvancedSearch, Version=7.2.0.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.DataAccessAbstraction, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.1.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications, Version=2.0.6.0, Culture=neutral, PublicKeyToken=null
+    1.1.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications.Web, Version=4.0.2.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.DataAccessAbstraction, Version=1.2.4.0, Culture=neutral, PublicKeyToken=null
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\MoI.ProInform.BuildingBlocks.DataAccessAbstraction.dll
+    1.2.4.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    1.2.4.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    1.2.4.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    1.2.4.0 by MoI.ProInform.BuildingBlocks.User.CallContext.Web, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null
+    1.2.4.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: MoI.ProInform.BuildingBlocks.DomainModel
+  MoI.ProInform.BuildingBlocks.DomainModel, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.1.0.0 by MoI.ProInform.BuildingBlocks.DomainUtils, Version=1.6.0.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.DomainModel, Version=1.17.0.0, Culture=neutral, PublicKeyToken=null
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\MoI.ProInform.BuildingBlocks.DomainModel.dll
+    1.17.0.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    1.17.0.0 by MoI.ProInform.BuildingBlocks.CompanyResourcesManagement.Services, Version=1.15.4.0, Culture=neutral, PublicKeyToken=null
+    1.17.0.0 by MoI.ProInform.BuildingBlocks.DomainModel.MassTransitDomainEventBus, Version=2.0.4.0, Culture=neutral, PublicKeyToken=null
+    1.17.0.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    1.17.0.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    1.17.0.0 by MoI.ProInform.BuildingBlocks.ProInform, Version=3.1.2.0, Culture=neutral, PublicKeyToken=null
+    1.17.0.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+    1.17.0.0 by MoI.ProInform.BuildingBlocks.ProInform.MassTransitHandlers, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+    1.17.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications, Version=2.0.6.0, Culture=neutral, PublicKeyToken=null
+    1.17.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications.Unity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+    1.17.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications.Web, Version=4.0.2.0, Culture=neutral, PublicKeyToken=null
+    1.17.0.0 by MoI.ProInform.BuildingBlocks.ProInform.PushNotificationMassTransit, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+    1.17.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Scheduler.Services.Implementation, Version=3.0.1.0, Culture=neutral, PublicKeyToken=null
+    1.17.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Scheduler.Tasks, Version=3.0.1.0, Culture=neutral, PublicKeyToken=null
+    1.17.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Scheduler.Web.Unity, Version=3.0.1.0, Culture=neutral, PublicKeyToken=null
+    1.17.0.0 by MoI.ProInform.BuildingBlocks.SystemRoles.ApiController, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+    1.17.0.0 by MoI.ProInform.BuildingBlocks.User, Version=1.7.3.0, Culture=neutral, PublicKeyToken=null
+    1.17.0.0 by MoI.ProInform.BuildingBlocks.User.AuthProvider, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null
+    1.17.0.0 by MoI.ProInform.BuildingBlocks.WebUtils, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+    1.17.0.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.DomainModel, Version=1.17.1.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.17.1.0 by MoI.ProInform.BuildingBlocks.AdvancedSearch, Version=7.2.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: MoI.ProInform.BuildingBlocks.DomainUtils
+  MoI.ProInform.BuildingBlocks.DomainUtils, Version=1.0.1.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.0.1.0 by MoI.ProInform.BuildingBlocks.ProInform.MassTransitHandlers, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+    1.0.1.0 by MoI.ProInform.BuildingBlocks.User.PasswordReset, Version=1.1.4.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.DomainUtils, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.0.3.0 by MoI.ProInform.BuildingBlocks.BusinessCalendar, Version=1.2.3.0, Culture=neutral, PublicKeyToken=null
+    1.0.3.0 by MoI.ProInform.BuildingBlocks.SmartMenu, Version=4.1.6.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.DomainUtils, Version=1.6.0.0, Culture=neutral, PublicKeyToken=null
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\MoI.ProInform.BuildingBlocks.DomainUtils.dll
+    1.6.0.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    1.6.0.0 by MoI.ProInform.BuildingBlocks.AdvancedSearch, Version=7.2.0.0, Culture=neutral, PublicKeyToken=null
+    1.6.0.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    1.6.0.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    1.6.0.0 by MoI.ProInform.BuildingBlocks.SmartMenu.DataProviders, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null
+
+Reference: MoI.ProInform.BuildingBlocks.Fields
+  MoI.ProInform.BuildingBlocks.Fields, Version=1.5.21.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.5.21.0 by MoI.ProInform.BuildingBlocks.ProInform, Version=3.1.2.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.Fields, Version=2.0.21.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    2.0.21.0 by MoI.ProInform.BuildingBlocks.SmartMenu, Version=4.1.6.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.Fields, Version=2.7.1.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    2.7.1.0 by MoI.ProInform.BuildingBlocks.AdvancedSearch, Version=7.2.0.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.Fields, Version=3.1.1.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    3.1.1.0 by MoI.ProInform.BuildingBlocks.CompanyResourcesManagement.Services, Version=1.15.4.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.Fields, Version=5.0.0.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    5.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.Fields, Version=5.6.0.0, Culture=neutral, PublicKeyToken=null
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\MoI.ProInform.BuildingBlocks.Fields.dll
+    5.6.0.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    5.6.0.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    5.6.0.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    5.6.0.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: MoI.ProInform.BuildingBlocks.ProAudit
+  MoI.ProInform.BuildingBlocks.ProAudit, Version=16.15.0.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    16.15.0.0 by MoI.ProInform.BuildingBlocks.SystemRoles.ApiController, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.0.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    22.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\MoI.ProInform.BuildingBlocks.ProAudit.dll
+    22.0.3.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    22.0.3.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: MoI.ProInform.BuildingBlocks.ProInform
+  MoI.ProInform.BuildingBlocks.ProInform, Version=1.11.0.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.11.0.0 by MoI.ProInform.BuildingBlocks.WebUtils, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.ProInform, Version=1.18.5.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.18.5.0 by MoI.ProInform.BuildingBlocks.AdvancedSearch, Version=7.2.0.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.ProInform, Version=1.9.1.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.9.1.0 by MoI.ProInform.BuildingBlocks.Mappers.TableMapper, Version=2.5.22.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.ProInform, Version=3.1.0.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    3.1.0.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.ProInform, Version=3.1.2.0, Culture=neutral, PublicKeyToken=null
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\MoI.ProInform.BuildingBlocks.ProInform.dll
+    3.1.2.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    3.1.2.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    3.1.2.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    3.1.2.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: MoI.ProInform.BuildingBlocks.ProInform.ApiController
+  MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.0.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    7.1.0.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\MoI.ProInform.BuildingBlocks.ProInform.ApiController.dll
+    7.1.2.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: MoI.ProInform.BuildingBlocks.ProInform.Notifications
+  MoI.ProInform.BuildingBlocks.ProInform.Notifications, Version=2.0.3.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    2.0.3.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications.Web, Version=4.0.2.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.ProInform.Notifications, Version=2.0.5.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    2.0.5.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications.Unity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+    2.0.5.0 by MoI.ProInform.BuildingBlocks.ProInform.PushNotificationMassTransit, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.ProInform.Notifications, Version=2.0.6.0, Culture=neutral, PublicKeyToken=null
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\MoI.ProInform.BuildingBlocks.ProInform.Notifications.dll
+    2.0.6.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    2.0.6.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    2.0.6.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: MoI.ProInform.BuildingBlocks.ProInform.Notifications.Web
+  MoI.ProInform.BuildingBlocks.ProInform.Notifications.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications.Unity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.ProInform.Notifications.Web, Version=4.0.2.0, Culture=neutral, PublicKeyToken=null
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\MoI.ProInform.BuildingBlocks.ProInform.Notifications.Web.dll
+    4.0.2.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: MoI.ProInform.BuildingBlocks.SmartMenu
+  MoI.ProInform.BuildingBlocks.SmartMenu, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    3.7.2.0 by MoI.ProInform.BuildingBlocks.SmartMenu.DataProviders, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.SmartMenu, Version=4.1.6.0, Culture=neutral, PublicKeyToken=null
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\MoI.ProInform.BuildingBlocks.SmartMenu.dll
+    4.1.6.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: MoI.ProInform.BuildingBlocks.User
+  MoI.ProInform.BuildingBlocks.User, Version=1.0.14.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.0.14.0 by MoI.ProInform.BuildingBlocks.AdvancedSearch, Version=7.2.0.0, Culture=neutral, PublicKeyToken=null
+    1.0.14.0 by MoI.ProInform.BuildingBlocks.User.PasswordReset, Version=1.1.4.0, Culture=neutral, PublicKeyToken=null
+    1.0.14.0 by MoI.ProInform.BuildingBlocks.User.RoleProvider, Version=1.0.6.0, Culture=neutral, PublicKeyToken=null
+    1.0.14.0 by MoI.ProInform.BuildingBlocks.UserActivity, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.User, Version=1.0.27.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.0.27.0 by MoI.ProInform.BuildingBlocks.SmartMenu, Version=4.1.6.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.User, Version=1.1.3.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.1.3.0 by MoI.ProInform.BuildingBlocks.CompanyResourcesManagement.Services, Version=1.15.4.0, Culture=neutral, PublicKeyToken=null
+    1.1.3.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications, Version=2.0.6.0, Culture=neutral, PublicKeyToken=null
+    1.1.3.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications.Web, Version=4.0.2.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.User, Version=1.6.2.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.6.2.0 by MoI.ProInform.BuildingBlocks.SystemRoles.ApiController, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.User, Version=1.7.0.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.7.0.0 by MoI.ProInform.BuildingBlocks.User.AuthProvider, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null
+    1.7.0.0 by MoI.ProInform.BuildingBlocks.User.CallContext, Version=1.4.0.0, Culture=neutral, PublicKeyToken=null
+    1.7.0.0 by MoI.ProInform.BuildingBlocks.User.CallContext.Web, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.User, Version=1.7.1.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.7.1.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.User, Version=1.7.2.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.7.2.0 by MoI.ProInform.BuildingBlocks.ProInform, Version=3.1.2.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.User, Version=1.7.3.0, Culture=neutral, PublicKeyToken=null
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\MoI.ProInform.BuildingBlocks.User.dll
+    1.7.3.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    1.7.3.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    1.7.3.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    1.7.3.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: MoI.ProInform.BuildingBlocks.User.AuthProvider
+  MoI.ProInform.BuildingBlocks.User.AuthProvider, Version=1.4.0.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.4.0.0 by MoI.ProInform.BuildingBlocks.ProInform.MassTransitHandlers, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.User.AuthProvider, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\MoI.ProInform.BuildingBlocks.User.AuthProvider.dll
+
+Reference: MoI.ProInform.BuildingBlocks.User.CallContext
+  MoI.ProInform.BuildingBlocks.User.CallContext, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.0.0.0 by MoI.ProInform.BuildingBlocks.CompanyResourcesManagement.Services, Version=1.15.4.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.User.CallContext, Version=1.0.5.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.0.5.0 by MoI.ProInform.BuildingBlocks.AdvancedSearch, Version=7.2.0.0, Culture=neutral, PublicKeyToken=null
+    1.0.5.0 by MoI.ProInform.BuildingBlocks.SmartMenu, Version=4.1.6.0, Culture=neutral, PublicKeyToken=null
+    1.0.5.0 by MoI.ProInform.BuildingBlocks.User.PasswordReset, Version=1.1.4.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.User.CallContext, Version=1.1.4.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.1.4.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications.Web, Version=4.0.2.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.User.CallContext, Version=1.4.0.0, Culture=neutral, PublicKeyToken=null
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\MoI.ProInform.BuildingBlocks.User.CallContext.dll
+    1.4.0.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    1.4.0.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    1.4.0.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    1.4.0.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+    1.4.0.0 by MoI.ProInform.BuildingBlocks.User.CallContext.Web, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null
+    1.4.0.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: MoI.ProInform.BuildingBlocks.UserActivity
+  MoI.ProInform.BuildingBlocks.UserActivity, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.0.3.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.UserActivity, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\MoI.ProInform.BuildingBlocks.UserActivity.dll
+    1.0.4.0 by MoI.ProInform.BuildingBlocks.ProInform.MassTransitHandlers, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+
+Reference: MoI.ProInform.BuildingBlocks.WebUtils
+  MoI.ProInform.BuildingBlocks.WebUtils, Version=1.0.29.0, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.0.29.0 by MoI.ProInform.BuildingBlocks.User.AuthProvider, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null
+  MoI.ProInform.BuildingBlocks.WebUtils, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\MoI.ProInform.BuildingBlocks.WebUtils.dll
+    3.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    3.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+    3.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications.Web, Version=4.0.2.0, Culture=neutral, PublicKeyToken=null
+    3.0.0.0 by MoI.ProInform.BuildingBlocks.SystemRoles.ApiController, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+    3.0.0.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: mscorlib
+  mscorlib, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll
+    1.0.5000.0 by EXIFextractor, Version=1.0.2076.31431, Culture=neutral, PublicKeyToken=null
+  mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll
+    2.0.0.0 by ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73
+    2.0.0.0 by LinqKit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=bc217f8844052a91
+    2.0.0.0 by Microsoft.AnalysisServices, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91
+    2.0.0.0 by Microsoft.AnalysisServices.AdomdClient, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91
+    2.0.0.0 by Remotion.Data.Linq, Version=1.13.52.2, Culture=neutral, PublicKeyToken=0669cf0452175907
+  mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e, Retargetable=Yes
+Source: GlobalAssemblyCache, Location: C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll
+    2.0.5.0 by Common.Logging, Version=3.0.0.0, Culture=neutral, PublicKeyToken=af08829b84f0328e
+    2.0.5.0 by Common.Logging.Core, Version=3.0.0.0, Culture=neutral, PublicKeyToken=af08829b84f0328e
+    2.0.5.0 by Microsoft.Practices.ServiceLocation, Version=1.3.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll
+    4.0.0.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by ABA.ProInform.Transport, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Common.Logging, Version=3.0.0.0, Culture=neutral, PublicKeyToken=af08829b84f0328e
+    4.0.0.0 by DevOne.Security.Cryptography.BCrypt, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by DocumentFormat.OpenXml, Version=2.5.5631.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Elasticsearch.Net, Version=5.0.0.0, Culture=neutral, PublicKeyToken=96c599bbe3e70f5d
+    4.0.0.0 by EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    4.0.0.0 by EntityFramework.Extended, Version=6.0.0.0, Culture=neutral, PublicKeyToken=05b7e29bdd433584
+    4.0.0.0 by EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    4.0.0.0 by EPPlus, Version=4.1.0.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1
+    4.0.0.0 by GreenPipes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b800c4cfcdeea87b
+    4.0.0.0 by Magnum, Version=2.1.3.0, Culture=neutral, PublicKeyToken=b800c4cfcdeea87b
+    4.0.0.0 by MassTransit, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b8e0e9f2f1e657fa
+    4.0.0.0 by MassTransit.NLogIntegration, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b8e0e9f2f1e657fa
+    4.0.0.0 by MassTransit.RabbitMqTransport, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b8e0e9f2f1e657fa
+    4.0.0.0 by Microsoft.AspNet.SignalR.Core, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Microsoft.AspNet.SignalR.SystemWeb, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Microsoft.Owin, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Microsoft.Owin.Host.SystemWeb, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Microsoft.Owin.Security, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Microsoft.Practices.Unity.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+    4.0.0.0 by Microsoft.Practices.Unity.RegistrationByConvention, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+    4.0.0.0 by Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.AccountManagement, Version=1.0.7.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.AdvancedSearch, Version=7.2.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.BusinessCalendar, Version=1.2.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.CommonDataTransferObjects, Version=2.4.17.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.CompanyResourcesManagement.Services, Version=1.15.4.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ConfigurationManagement, Version=1.2.1.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.DataAccessAbstraction, Version=1.2.4.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.DomainModel, Version=1.17.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.DomainModel.MassTransitDomainEventBus, Version=2.0.4.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.DomainUtils, Version=1.6.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.Fields, Version=5.6.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.MailsNotifications, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.Mappers.ChartMapper, Version=1.1.1.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.Mappers.TableMapper, Version=2.5.22.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.OrganizationStructure, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform, Version=3.1.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.MassTransitHandlers, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications, Version=2.0.6.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications.Unity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications.Web, Version=4.0.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.PushNotificationMassTransit, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Scheduler.Services.Implementation, Version=3.0.1.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Scheduler.Tasks, Version=3.0.1.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Scheduler.Web.Unity, Version=3.0.1.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.SignalrUtils, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.SmartMenu, Version=4.1.6.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.SmartMenu.DataProviders, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.SystemRoles.ApiController, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User, Version=1.7.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.AuthProvider, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.CallContext, Version=1.4.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.CallContext.Web, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.PasswordReset, Version=1.1.4.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.RoleProvider, Version=1.0.6.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.UserActivity, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.WebUtils, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Mvc.Mailer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Nest, Version=5.0.0.0, Culture=neutral, PublicKeyToken=96c599bbe3e70f5d
+    4.0.0.0 by NewId, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b8e0e9f2f1e657fa
+    4.0.0.0 by Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+    4.0.0.0 by NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+    4.0.0.0 by NSubstitute, Version=1.8.2.0, Culture=neutral, PublicKeyToken=92dd2e9066daa5ca
+    4.0.0.0 by Owin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f0ebd12fd5e55cc5
+    4.0.0.0 by Polly, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Quartz, Version=2.3.3.0, Culture=neutral, PublicKeyToken=f6b8c98a402cc8a4
+    4.0.0.0 by RabbitMQ.Client, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89e7d7c5feba84ce
+    4.0.0.0 by RazorEngine, Version=3.9.3.0, Culture=neutral, PublicKeyToken=9ee697374c7e744a
+    4.0.0.0 by Simple.Data, Version=0.19.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Simple.Data.Ado, Version=0.19.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Simple.Data.SqlServer, Version=0.19.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by StackifyLib, Version=1.21.5920.28436, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by StackifyLib.nLog, Version=1.18.5890.19948, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by System.IO.Abstractions, Version=2.0.0.141, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by System.Net.Http, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+    4.0.0.0 by System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Net.Http.WebRequest, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+    4.0.0.0 by System.Web.Helpers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Http, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Http.WebHost, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Mvc, Version=4.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Providers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.WebPages, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.WebPages.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.WebPages.Razor, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Unity.AutoRegistration, Version=1.1.0.0, Culture=neutral, PublicKeyToken=35372f2f493f82ea
+    4.0.0.0 by Unity.Mvc4, Version=1.4.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Unity.WebApi, Version=5.2.3.0, Culture=neutral, PublicKeyToken=43da31bc42a85347
+
+Reference: Newtonsoft.Json
+  Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+Source: NotFound
+    4.5.0.0 by MoI.ProInform.BuildingBlocks.ConfigurationManagement, Version=1.2.1.0, Culture=neutral, PublicKeyToken=null
+  Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+Source: NotFound
+    6.0.0.0 by Magnum, Version=2.1.3.0, Culture=neutral, PublicKeyToken=b800c4cfcdeea87b
+    6.0.0.0 by Microsoft.AspNet.SignalR.Core, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.CompanyResourcesManagement.Services, Version=1.15.4.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform, Version=3.1.2.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications, Version=2.0.6.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Scheduler.Services.Implementation, Version=3.0.1.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.SignalrUtils, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.SmartMenu, Version=4.1.6.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.User, Version=1.7.3.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.User.AuthProvider, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by MoI.ProInform.BuildingBlocks.WebUtils, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by StackifyLib, Version=1.21.5920.28436, Culture=neutral, PublicKeyToken=null
+    6.0.0.0 by System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    6.0.0.0 by System.Web.Http, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\Newtonsoft.Json.dll
+    9.0.0.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    9.0.0.0 by MassTransit, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b8e0e9f2f1e657fa
+    9.0.0.0 by MassTransit.RabbitMqTransport, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b8e0e9f2f1e657fa
+    9.0.0.0 by MoI.ProInform.BuildingBlocks.AdvancedSearch, Version=7.2.0.0, Culture=neutral, PublicKeyToken=null
+    9.0.0.0 by MoI.ProInform.BuildingBlocks.Fields, Version=5.6.0.0, Culture=neutral, PublicKeyToken=null
+    9.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    9.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    9.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+    9.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.MassTransitHandlers, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+    9.0.0.0 by Nest, Version=5.0.0.0, Culture=neutral, PublicKeyToken=96c599bbe3e70f5d
+    9.0.0.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: NLog
+  NLog, Version=2.0.1.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+Source: NotFound
+    2.0.1.0 by MoI.ProInform.BuildingBlocks.User.PasswordReset, Version=1.1.4.0, Culture=neutral, PublicKeyToken=null
+    2.0.1.0 by StackifyLib.nLog, Version=1.18.5890.19948, Culture=neutral, PublicKeyToken=null
+  NLog, Version=2.1.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+Source: NotFound
+    2.1.0.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    2.1.0.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    2.1.0.0 by MoI.ProInform.BuildingBlocks.ProInform, Version=3.1.2.0, Culture=neutral, PublicKeyToken=null
+    2.1.0.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+    2.1.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Scheduler.Web.Unity, Version=3.0.1.0, Culture=neutral, PublicKeyToken=null
+    2.1.0.0 by MoI.ProInform.BuildingBlocks.User.AuthProvider, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null
+    2.1.0.0 by MoI.ProInform.BuildingBlocks.WebUtils, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+  NLog, Version=3.1.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+Source: NotFound
+    3.1.0.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    3.1.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications.Web, Version=4.0.2.0, Culture=neutral, PublicKeyToken=null
+  NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\NLog.dll
+    4.0.0.0 by MassTransit.NLogIntegration, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b8e0e9f2f1e657fa
+    4.0.0.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: StackifyLib
+  StackifyLib, Version=1.19.5890.19948, Culture=neutral, PublicKeyToken=null
+Source: NotFound
+    1.19.5890.19948 by StackifyLib.nLog, Version=1.18.5890.19948, Culture=neutral, PublicKeyToken=null
+  StackifyLib, Version=1.21.5920.28436, Culture=neutral, PublicKeyToken=null
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\StackifyLib.dll
+
+Reference: System
+  System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\assembly\GAC_MSIL\System\2.0.0.0__b77a5c561934e089\System.dll
+    2.0.0.0 by ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, PublicKeyToken=1b03e6acf1164f73
+    2.0.0.0 by Microsoft.AnalysisServices, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91
+    2.0.0.0 by Microsoft.AnalysisServices.AdomdClient, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91
+    2.0.0.0 by Remotion.Data.Linq, Version=1.13.52.2, Culture=neutral, PublicKeyToken=0669cf0452175907
+  System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e, Retargetable=Yes
+Source: NotFound
+    2.0.5.0 by Microsoft.Practices.ServiceLocation, Version=1.3.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll
+    4.0.0.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by ABA.ProInform.Transport, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Common.Logging, Version=3.0.0.0, Culture=neutral, PublicKeyToken=af08829b84f0328e
+    4.0.0.0 by DocumentFormat.OpenXml, Version=2.5.5631.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Elasticsearch.Net, Version=5.0.0.0, Culture=neutral, PublicKeyToken=96c599bbe3e70f5d
+    4.0.0.0 by EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    4.0.0.0 by EntityFramework.Extended, Version=6.0.0.0, Culture=neutral, PublicKeyToken=05b7e29bdd433584
+    4.0.0.0 by EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    4.0.0.0 by EPPlus, Version=4.1.0.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1
+    4.0.0.0 by GreenPipes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b800c4cfcdeea87b
+    4.0.0.0 by Magnum, Version=2.1.3.0, Culture=neutral, PublicKeyToken=b800c4cfcdeea87b
+    4.0.0.0 by MassTransit, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b8e0e9f2f1e657fa
+    4.0.0.0 by MassTransit.RabbitMqTransport, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b8e0e9f2f1e657fa
+    4.0.0.0 by Microsoft.AspNet.SignalR.Core, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Microsoft.Owin, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Microsoft.Owin.Host.SystemWeb, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Microsoft.Owin.Security, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Microsoft.Practices.Unity.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+    4.0.0.0 by Microsoft.Practices.Unity.RegistrationByConvention, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+    4.0.0.0 by Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.AccountManagement, Version=1.0.7.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.AdvancedSearch, Version=7.2.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.CompanyResourcesManagement.Services, Version=1.15.4.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.DomainUtils, Version=1.6.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.Fields, Version=5.6.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.MailsNotifications, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform, Version=3.1.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications.Web, Version=4.0.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.PushNotificationMassTransit, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Scheduler.Web.Unity, Version=3.0.1.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.SmartMenu, Version=4.1.6.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.SystemRoles.ApiController, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.AuthProvider, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.CallContext.Web, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.PasswordReset, Version=1.1.4.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.RoleProvider, Version=1.0.6.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.WebUtils, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Mvc.Mailer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Nest, Version=5.0.0.0, Culture=neutral, PublicKeyToken=96c599bbe3e70f5d
+    4.0.0.0 by NewId, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b8e0e9f2f1e657fa
+    4.0.0.0 by Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+    4.0.0.0 by NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+    4.0.0.0 by NSubstitute, Version=1.8.2.0, Culture=neutral, PublicKeyToken=92dd2e9066daa5ca
+    4.0.0.0 by Polly, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Quartz, Version=2.3.3.0, Culture=neutral, PublicKeyToken=f6b8c98a402cc8a4
+    4.0.0.0 by RabbitMQ.Client, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89e7d7c5feba84ce
+    4.0.0.0 by RazorEngine, Version=3.9.3.0, Culture=neutral, PublicKeyToken=9ee697374c7e744a
+    4.0.0.0 by Simple.Data, Version=0.19.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Simple.Data.Ado, Version=0.19.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Simple.Data.SqlServer, Version=0.19.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by StackifyLib, Version=1.21.5920.28436, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by System.IO.Abstractions, Version=2.0.0.141, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by System.Net.Http, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+    4.0.0.0 by System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Net.Http.WebRequest, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+    4.0.0.0 by System.Web.Helpers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Http, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Http.WebHost, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Mvc, Version=4.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Providers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.WebPages, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.WebPages.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.WebPages.Razor, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+Reference: System.Collections
+  System.Collections, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Collections\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Collections.dll
+    4.0.0.0 by Microsoft.Practices.Unity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+
+Reference: System.ComponentModel.Composition
+  System.ComponentModel.Composition, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ComponentModel.Composition\v4.0_4.0.0.0__b77a5c561934e089\System.ComponentModel.Composition.dll
+    4.0.0.0 by Simple.Data, Version=0.19.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Simple.Data.Ado, Version=0.19.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Simple.Data.SqlServer, Version=0.19.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: System.ComponentModel.DataAnnotations
+  System.ComponentModel.DataAnnotations, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ComponentModel.DataAnnotations\v4.0_4.0.0.0__31bf3856ad364e35\System.ComponentModel.DataAnnotations.dll
+    4.0.0.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    4.0.0.0 by EntityFramework.Extended, Version=6.0.0.0, Culture=neutral, PublicKeyToken=05b7e29bdd433584
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.AdvancedSearch, Version=7.2.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.AuthProvider, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by System.Web.Http, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Mvc, Version=4.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.WebPages, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+Reference: System.Configuration
+  System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\assembly\GAC_MSIL\System.Configuration\2.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll
+    2.0.0.0 by Microsoft.AnalysisServices, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91
+  System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll
+    4.0.0.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Common.Logging, Version=3.0.0.0, Culture=neutral, PublicKeyToken=af08829b84f0328e
+    4.0.0.0 by EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    4.0.0.0 by Microsoft.Owin.Host.SystemWeb, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Microsoft.Practices.Unity.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+    4.0.0.0 by Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.AccountManagement, Version=1.0.7.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.CompanyResourcesManagement.Services, Version=1.15.4.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.DomainUtils, Version=1.6.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform, Version=3.1.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.PushNotificationMassTransit, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.AuthProvider, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.WebUtils, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Mvc.Mailer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+    4.0.0.0 by NSubstitute, Version=1.8.2.0, Culture=neutral, PublicKeyToken=92dd2e9066daa5ca
+    4.0.0.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Quartz, Version=2.3.3.0, Culture=neutral, PublicKeyToken=f6b8c98a402cc8a4
+    4.0.0.0 by RazorEngine, Version=3.9.3.0, Culture=neutral, PublicKeyToken=9ee697374c7e744a
+    4.0.0.0 by Simple.Data, Version=0.19.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Simple.Data.Ado, Version=0.19.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by StackifyLib, Version=1.21.5920.28436, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by System.Web.Mvc, Version=4.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Providers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.WebPages.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.WebPages.Razor, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+Reference: System.Core
+  System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\assembly\GAC_MSIL\System.Core\3.5.0.0__b77a5c561934e089\System.Core.dll
+    3.5.0.0 by LinqKit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=bc217f8844052a91
+    3.5.0.0 by Remotion.Data.Linq, Version=1.13.52.2, Culture=neutral, PublicKeyToken=0669cf0452175907
+  System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll
+    4.0.0.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by ABA.ProInform.Transport, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by DocumentFormat.OpenXml, Version=2.5.5631.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Elasticsearch.Net, Version=5.0.0.0, Culture=neutral, PublicKeyToken=96c599bbe3e70f5d
+    4.0.0.0 by EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    4.0.0.0 by EntityFramework.Extended, Version=6.0.0.0, Culture=neutral, PublicKeyToken=05b7e29bdd433584
+    4.0.0.0 by EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    4.0.0.0 by EPPlus, Version=4.1.0.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1
+    4.0.0.0 by GreenPipes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b800c4cfcdeea87b
+    4.0.0.0 by Magnum, Version=2.1.3.0, Culture=neutral, PublicKeyToken=b800c4cfcdeea87b
+    4.0.0.0 by MassTransit, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b8e0e9f2f1e657fa
+    4.0.0.0 by MassTransit.RabbitMqTransport, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b8e0e9f2f1e657fa
+    4.0.0.0 by Microsoft.AspNet.SignalR.Core, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Microsoft.Owin, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Microsoft.Owin.Host.SystemWeb, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Microsoft.Owin.Security, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Microsoft.Practices.Unity.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+    4.0.0.0 by Microsoft.Practices.Unity.RegistrationByConvention, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+    4.0.0.0 by Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.AccountManagement, Version=1.0.7.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.AdvancedSearch, Version=7.2.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.BusinessCalendar, Version=1.2.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.CommonDataTransferObjects, Version=2.4.17.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.CompanyResourcesManagement.Services, Version=1.15.4.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ConfigurationManagement, Version=1.2.1.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.DataAccessAbstraction, Version=1.2.4.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.DomainModel, Version=1.17.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.Fields, Version=5.6.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.Mappers.ChartMapper, Version=1.1.1.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.Mappers.TableMapper, Version=2.5.22.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.OrganizationStructure, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform, Version=3.1.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.MassTransitHandlers, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications, Version=2.0.6.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications.Web, Version=4.0.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Scheduler.Services.Implementation, Version=3.0.1.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Scheduler.Web.Unity, Version=3.0.1.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.SmartMenu, Version=4.1.6.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.SmartMenu.DataProviders, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.SystemRoles.ApiController, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User, Version=1.7.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.AuthProvider, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.CallContext, Version=1.4.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.CallContext.Web, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.PasswordReset, Version=1.1.4.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.RoleProvider, Version=1.0.6.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.UserActivity, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.WebUtils, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Mvc.Mailer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Nest, Version=5.0.0.0, Culture=neutral, PublicKeyToken=96c599bbe3e70f5d
+    4.0.0.0 by NewId, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b8e0e9f2f1e657fa
+    4.0.0.0 by Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+    4.0.0.0 by NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+    4.0.0.0 by NSubstitute, Version=1.8.2.0, Culture=neutral, PublicKeyToken=92dd2e9066daa5ca
+    4.0.0.0 by Polly, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Quartz, Version=2.3.3.0, Culture=neutral, PublicKeyToken=f6b8c98a402cc8a4
+    4.0.0.0 by RabbitMQ.Client, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89e7d7c5feba84ce
+    4.0.0.0 by RazorEngine, Version=3.9.3.0, Culture=neutral, PublicKeyToken=9ee697374c7e744a
+    4.0.0.0 by Simple.Data, Version=0.19.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Simple.Data.Ado, Version=0.19.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Simple.Data.SqlServer, Version=0.19.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by StackifyLib, Version=1.21.5920.28436, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by StackifyLib.nLog, Version=1.18.5890.19948, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by System.IO.Abstractions, Version=2.0.0.141, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by System.Net.Http, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+    4.0.0.0 by System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Helpers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Http, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Http.WebHost, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Mvc, Version=4.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Providers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.WebPages, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.WebPages.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.WebPages.Razor, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Unity.AutoRegistration, Version=1.1.0.0, Culture=neutral, PublicKeyToken=35372f2f493f82ea
+
+Reference: System.Data
+  System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\assembly\GAC_32\System.Data\2.0.0.0__b77a5c561934e089\System.Data.dll
+    2.0.0.0 by Microsoft.AnalysisServices, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91
+    2.0.0.0 by Microsoft.AnalysisServices.AdomdClient, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91
+  System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll
+    4.0.0.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    4.0.0.0 by EntityFramework.Extended, Version=6.0.0.0, Culture=neutral, PublicKeyToken=05b7e29bdd433584
+    4.0.0.0 by EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    4.0.0.0 by EPPlus, Version=4.1.0.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1
+    4.0.0.0 by MassTransit, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b8e0e9f2f1e657fa
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.AccountManagement, Version=1.0.7.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.CompanyResourcesManagement.Services, Version=1.15.4.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ConfigurationManagement, Version=1.2.1.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.Mappers.TableMapper, Version=2.5.22.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform, Version=3.1.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.AuthProvider, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+    4.0.0.0 by NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+    4.0.0.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Quartz, Version=2.3.3.0, Culture=neutral, PublicKeyToken=f6b8c98a402cc8a4
+    4.0.0.0 by Simple.Data, Version=0.19.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Simple.Data.Ado, Version=0.19.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Simple.Data.SqlServer, Version=0.19.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by StackifyLib, Version=1.21.5920.28436, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by System.Web.Providers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+Reference: System.Data.DataSetExtensions
+  System.Data.DataSetExtensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Data.DataSetExtensions\v4.0_4.0.0.0__b77a5c561934e089\System.Data.DataSetExtensions.dll
+    4.0.0.0 by Simple.Data.SqlServer, Version=0.19.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: System.Data.Entity
+  System.Data.Entity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Data.Entity\v4.0_4.0.0.0__b77a5c561934e089\System.Data.Entity.dll
+    4.0.0.0 by System.Web.Mvc, Version=4.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Providers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+Reference: System.Data.Linq
+  System.Data.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Data.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Data.Linq.dll
+    4.0.0.0 by System.Web.Mvc, Version=4.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.WebPages, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+Reference: System.Diagnostics.Debug
+  System.Diagnostics.Debug, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Diagnostics.Debug\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Diagnostics.Debug.dll
+    4.0.0.0 by Microsoft.Practices.Unity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+
+Reference: System.Diagnostics.Tools
+  System.Diagnostics.Tools, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Diagnostics.Tools\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Diagnostics.Tools.dll
+    4.0.0.0 by Microsoft.Practices.Unity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+
+Reference: System.Drawing
+  System.Drawing, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: NotFound
+    1.0.5000.0 by EXIFextractor, Version=1.0.2076.31431, Culture=neutral, PublicKeyToken=null
+  System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\assembly\GAC_MSIL\System.Drawing\2.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll
+    2.0.0.0 by Microsoft.AnalysisServices, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91
+  System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll
+    4.0.0.0 by ABA.ProInform.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by EPPlus, Version=4.1.0.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by System.Web.Helpers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+Reference: System.Globalization
+  System.Globalization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Globalization\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Globalization.dll
+    4.0.0.0 by Microsoft.Practices.Unity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+
+Reference: System.IO.Compression
+  System.IO.Compression, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.IO.Compression\v4.0_4.0.0.0__b77a5c561934e089\System.IO.Compression.dll
+    4.0.0.0 by NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+
+Reference: System.Linq
+  System.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Linq\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Linq.dll
+    4.0.0.0 by Microsoft.Practices.Unity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+
+Reference: System.Linq.Expressions
+  System.Linq.Expressions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Linq.Expressions\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Linq.Expressions.dll
+    4.0.0.0 by Microsoft.Practices.Unity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+
+Reference: System.Management
+  System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Management\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Management.dll
+    4.0.0.0 by NewId, Version=3.0.0.0, Culture=neutral, PublicKeyToken=b8e0e9f2f1e657fa
+    4.0.0.0 by StackifyLib, Version=1.21.5920.28436, Culture=neutral, PublicKeyToken=null
+
+Reference: System.Net.Http
+  System.Net.Http, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\System.Net.Http.dll
+    2.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    2.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform, Version=3.1.2.0, Culture=neutral, PublicKeyToken=null
+    2.0.0.0 by MoI.ProInform.BuildingBlocks.WebUtils, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+    2.0.0.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    2.0.0.0 by System.Net.Http.WebRequest, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Net.Http\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Net.Http.dll
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.MassTransitHandlers, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications.Web, Version=4.0.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.SystemRoles.ApiController, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Http, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Http.WebHost, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+Reference: System.Net.Http.Formatting
+  System.Net.Http.Formatting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Source: NotFound
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.WebUtils, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+  System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\System.Net.Http.Formatting.dll
+    5.2.3.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    5.2.3.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+    5.2.3.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    5.2.3.0 by System.Web.Http, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    5.2.3.0 by System.Web.Http.WebHost, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+Reference: System.Numerics
+  System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll
+    4.0.0.0 by Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+
+Reference: System.Reflection
+  System.Reflection, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Reflection\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Reflection.dll
+    4.0.0.0 by Microsoft.Practices.Unity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+
+Reference: System.Reflection.Extensions
+  System.Reflection.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Reflection.Extensions\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Reflection.Extensions.dll
+    4.0.0.0 by Microsoft.Practices.Unity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+
+Reference: System.Resources.ResourceManager
+  System.Resources.ResourceManager, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Resources.ResourceManager\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Resources.ResourceManager.dll
+    4.0.0.0 by Microsoft.Practices.Unity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+
+Reference: System.Runtime
+  System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.dll
+    4.0.0.0 by Microsoft.Practices.Unity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+
+Reference: System.Runtime.Caching
+  System.Runtime.Caching, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Caching\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.Caching.dll
+    4.0.0.0 by EntityFramework.Extended, Version=6.0.0.0, Culture=neutral, PublicKeyToken=05b7e29bdd433584
+    4.0.0.0 by System.Web.Helpers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Mvc, Version=4.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+Reference: System.Runtime.Extensions
+  System.Runtime.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Extensions\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.Extensions.dll
+    4.0.0.0 by Microsoft.Practices.Unity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+
+Reference: System.Runtime.Remoting
+  System.Runtime.Remoting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll
+    4.0.0.0 by Quartz, Version=2.3.3.0, Culture=neutral, PublicKeyToken=f6b8c98a402cc8a4
+
+Reference: System.Runtime.Serialization
+  System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll
+    4.0.0.0 by Elasticsearch.Net, Version=5.0.0.0, Culture=neutral, PublicKeyToken=96c599bbe3e70f5d
+    4.0.0.0 by EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    4.0.0.0 by EntityFramework.Extended, Version=6.0.0.0, Culture=neutral, PublicKeyToken=05b7e29bdd433584
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Nest, Version=5.0.0.0, Culture=neutral, PublicKeyToken=96c599bbe3e70f5d
+    4.0.0.0 by Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+    4.0.0.0 by NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+    4.0.0.0 by StackifyLib, Version=1.21.5920.28436, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Http, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Providers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+Reference: System.Security
+  System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Security\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Security.dll
+    4.0.0.0 by EPPlus, Version=4.1.0.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1
+    4.0.0.0 by Magnum, Version=2.1.3.0, Culture=neutral, PublicKeyToken=b800c4cfcdeea87b
+    4.0.0.0 by Microsoft.AspNet.SignalR.Core, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Microsoft.Owin.Security, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+Reference: System.ServiceModel
+  System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel\v4.0_4.0.0.0__b77a5c561934e089\System.ServiceModel.dll
+    4.0.0.0 by Nest, Version=5.0.0.0, Culture=neutral, PublicKeyToken=96c599bbe3e70f5d
+    4.0.0.0 by NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+    4.0.0.0 by NSubstitute, Version=1.8.2.0, Culture=neutral, PublicKeyToken=92dd2e9066daa5ca
+
+Reference: System.Threading
+  System.Threading, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Threading\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Threading.dll
+    4.0.0.0 by Microsoft.Practices.Unity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+
+Reference: System.Transactions
+  System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll
+    4.0.0.0 by EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    4.0.0.0 by MassTransit, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b8e0e9f2f1e657fa
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit, Version=22.0.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+
+Reference: System.Web
+  System.Web, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: NotFound
+    1.0.5000.0 by EXIFextractor, Version=1.0.2076.31431, Culture=neutral, PublicKeyToken=null
+  System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll
+    4.0.0.0 by Microsoft.AspNet.SignalR.SystemWeb, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Microsoft.Owin.Host.SystemWeb, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.AccountManagement, Version=1.0.7.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform, Version=3.1.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.AuthProvider, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.CallContext.Web, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.WebUtils, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Mvc.Mailer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Quartz, Version=2.3.3.0, Culture=neutral, PublicKeyToken=f6b8c98a402cc8a4
+    4.0.0.0 by StackifyLib, Version=1.21.5920.28436, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by System.Web.Helpers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Http.WebHost, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Mvc, Version=4.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Providers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.WebPages, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.WebPages.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.WebPages.Razor, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by Unity.Mvc4, Version=1.4.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: System.Web.ApplicationServices
+  System.Web.ApplicationServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.ApplicationServices\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.ApplicationServices.dll
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.AccountManagement, Version=1.0.7.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.AuthProvider, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by System.Web.Providers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+Reference: System.Web.DataVisualization
+  System.Web.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.DataVisualization\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.DataVisualization.dll
+    4.0.0.0 by System.Web.Helpers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+Reference: System.Web.Extensions
+  System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.Extensions\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.Extensions.dll
+    4.0.0.0 by System.Web.Helpers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Mvc, Version=4.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+Reference: System.Web.Http
+  System.Web.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Source: NotFound
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.ProInform, Version=3.1.2.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.WebUtils, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Unity.Mvc4, Version=1.4.0.0, Culture=neutral, PublicKeyToken=null
+  System.Web.Http, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\System.Web.Http.dll
+    5.2.3.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    5.2.3.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+    5.2.3.0 by MoI.ProInform.BuildingBlocks.ProInform.Notifications.Web, Version=4.0.2.0, Culture=neutral, PublicKeyToken=null
+    5.2.3.0 by MoI.ProInform.BuildingBlocks.SystemRoles.ApiController, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+    5.2.3.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+    5.2.3.0 by System.Web.Http.WebHost, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    5.2.3.0 by Unity.WebApi, Version=5.2.3.0, Culture=neutral, PublicKeyToken=43da31bc42a85347
+
+Reference: System.Web.Http.WebHost
+  System.Web.Http.WebHost, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Source: NotFound
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.WebUtils, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+  System.Web.Http.WebHost, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\System.Web.Http.WebHost.dll
+    5.2.3.0 by MoI.ProInform.BuildingBlocks.ProAudit.ApiController, Version=19.0.3.0, Culture=neutral, PublicKeyToken=null
+    5.2.3.0 by MoI.ProInform.BuildingBlocks.ProInform.ApiController, Version=7.1.2.0, Culture=neutral, PublicKeyToken=null
+    5.2.3.0 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: System.Web.Mvc
+  System.Web.Mvc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.Mvc\v4.0_3.0.0.0__31bf3856ad364e35\System.Web.Mvc.dll
+    3.0.0.0 by Mvc.Mailer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  System.Web.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.Mvc\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.Mvc.dll
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.AuthProvider, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.User.PasswordReset, Version=1.1.4.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by MoI.ProInform.BuildingBlocks.WebUtils, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
+    4.0.0.0 by Unity.Mvc4, Version=1.4.0.0, Culture=neutral, PublicKeyToken=null
+  System.Web.Mvc, Version=4.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\System.Web.Mvc.dll
+    4.0.0.1 by ProAudit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Reference: System.Web.Razor
+  System.Web.Razor, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.Razor\v4.0_2.0.0.0__31bf3856ad364e35\System.Web.Razor.dll
+    2.0.0.0 by System.Web.Mvc, Version=4.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    2.0.0.0 by System.Web.WebPages, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    2.0.0.0 by System.Web.WebPages.Razor, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Source: Local, Location: C:\the moi\projects\aba-proinform\ProAudit\bin\System.Web.Razor.dll
+    3.0.0.0 by RazorEngine, Version=3.9.3.0, Culture=neutral, PublicKeyToken=9ee697374c7e744a
+
+Reference: System.Xml
+  System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\assembly\GAC_MSIL\System.Xml\2.0.0.0__b77a5c561934e089\System.Xml.dll
+    2.0.0.0 by Microsoft.AnalysisServices, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91
+    2.0.0.0 by Microsoft.AnalysisServices.AdomdClient, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91
+  System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll
+    4.0.0.0 by Common.Logging, Version=3.0.0.0, Culture=neutral, PublicKeyToken=af08829b84f0328e
+    4.0.0.0 by DocumentFormat.OpenXml, Version=2.5.5631.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    4.0.0.0 by EntityFramework.Extended, Version=6.0.0.0, Culture=neutral, PublicKeyToken=05b7e29bdd433584
+    4.0.0.0 by EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    4.0.0.0 by EPPlus, Version=4.1.0.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1
+    4.0.0.0 by Magnum, Version=2.1.3.0, Culture=neutral, PublicKeyToken=b800c4cfcdeea87b
+    4.0.0.0 by MassTransit, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b8e0e9f2f1e657fa
+    4.0.0.0 by Microsoft.Practices.Unity.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=6d32ff45e0ccc69f
+    4.0.0.0 by Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+    4.0.0.0 by NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+    4.0.0.0 by NSubstitute, Version=1.8.2.0, Culture=neutral, PublicKeyToken=92dd2e9066daa5ca
+    4.0.0.0 by Quartz, Version=2.3.3.0, Culture=neutral, PublicKeyToken=f6b8c98a402cc8a4
+    4.0.0.0 by System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Helpers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Http, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Http.WebHost, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Mvc, Version=4.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.Providers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+Reference: System.Xml.Linq
+  System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll
+    4.0.0.0 by EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+    4.0.0.0 by MassTransit, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b8e0e9f2f1e657fa
+    4.0.0.0 by Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+    4.0.0.0 by System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+    4.0.0.0 by System.Web.WebPages, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+Reference: WindowsBase
+  WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+Source: GlobalAssemblyCache, Location: C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\WindowsBase\v4.0_4.0.0.0__31bf3856ad364e35\WindowsBase.dll
+    4.0.0.0 by DocumentFormat.OpenXml, Version=2.5.5631.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+

@@ -1,0 +1,68 @@
+
+==================== FINAL INTERFACE ====================
+2017-05-05 12:04:01.3301668 UTC
+
+interface sum-of-multiples-0.0.0-FcfoLhOWKBkDmZOHfMOIcH:Paths_sum_of_multiples 8002
+  interface hash: 5adee8a8e07dc68f5969060060a0c0a2
+  ABI hash: 701010ebd4cfe32a9b837bd5ba9a3bd1
+  export-list hash: 96dd4de9f6b606327a267ab15485fa0a
+  orphan hash: 693e9af84d3dfcc71e640e005bdc5e2e
+  flag hash: cf83bc2a068d416757c1a74062ebf31c
+  sig of: Nothing
+  used TH splices: False
+  where
+exports:
+  Paths_sum_of_multiples.getBinDir
+  Paths_sum_of_multiples.getDataDir
+  Paths_sum_of_multiples.getDataFileName
+  Paths_sum_of_multiples.getDynLibDir
+  Paths_sum_of_multiples.getLibDir
+  Paths_sum_of_multiples.getLibexecDir
+  Paths_sum_of_multiples.getSysconfDir
+  Paths_sum_of_multiples.version
+module dependencies:
+package dependencies: base-4.9.1.0* ghc-prim-0.5.0.0
+                      integer-gmp-1.0.0.1
+orphans: base-4.9.1.0:GHC.Base base-4.9.1.0:GHC.Float
+family instance modules: base-4.9.1.0:Control.Applicative
+                         base-4.9.1.0:Data.Either base-4.9.1.0:Data.Functor.Const
+                         base-4.9.1.0:Data.Monoid base-4.9.1.0:Data.Type.Equality
+                         base-4.9.1.0:Data.Version base-4.9.1.0:GHC.Generics
+                         base-4.9.1.0:GHC.IO.Exception base-4.9.1.0:GHC.TypeLits
+import  -/  base-4.9.1.0:Control.Exception 292fff19f09f7eea1a1573871191d564
+import  -/  base-4.9.1.0:Control.Exception.Base f4debb4f4369b99523a6b8027855f0db
+import  -/  base-4.9.1.0:Data.Version c04981f8d25b831fbbf4576f2cf1abac
+import  -/  base-4.9.1.0:GHC.Base 4caea1123ecf4b46e27cbccd6d279377
+import  -/  base-4.9.1.0:GHC.IO 4d461f9283683225c61e68db403481ad
+import  -/  base-4.9.1.0:GHC.IO.Exception 349c350331ac44a0eaf797a7dc219e08
+import  -/  base-4.9.1.0:Prelude 74b3e204395920329f6de9d97206abe9
+import  -/  base-4.9.1.0:System.Environment 438c0b0bc0f94461b9c946d062a7eab9
+import  -/  ghc-prim-0.5.0.0:GHC.Types 89f8de4f08018c9177c98d979eae0e45
+addDependentFile "C:\Users\Rob\AppData\Local\Programs\stack\x86_64-windows\ghc-8.0.2\lib\include\ghcversion.h"
+addDependentFile ".stack-work\dist\ca59d0ab\build\autogen\cabal_macros.h"
+8d5787b37880fc2f382997755f5fa975
+  $trModule :: GHC.Types.Module
+51e1c1bd359f96f67290165888d00116
+  getBinDir :: GHC.Types.IO GHC.IO.FilePath
+c473170c4a4555650c4a8c18c2ed72f2
+  getDataDir :: GHC.Types.IO GHC.IO.FilePath
+40b9feecfa915172b46fc280537be8de
+  getDataFileName :: GHC.IO.FilePath -> GHC.Types.IO GHC.IO.FilePath
+71ee9911e7897f152e1a76f69b28e688
+  getDynLibDir :: GHC.Types.IO GHC.IO.FilePath
+60f91f2567162945614034038f42131b
+  getLibDir :: GHC.Types.IO GHC.IO.FilePath
+59f2862ca995087402e1ed7d95c6538d
+  getLibexecDir :: GHC.Types.IO GHC.IO.FilePath
+1f9ea2529b9f8cf8a2f705e6ecada4b7
+  getSysconfDir :: GHC.Types.IO GHC.IO.FilePath
+976e48672c69eb94c596aac87cd50b3e
+  version :: Data.Version.Version
+vectorised variables:
+vectorised tycons:
+vectorised reused tycons:
+parallel variables:
+parallel tycons:
+trusted: safe
+require own pkg trusted: False
+

@@ -1,0 +1,112 @@
+
+==================== FINAL INTERFACE ====================
+2017-04-17 10:10:35.218807 UTC
+
+interface bob-0.0.0-GLaIRUqkttu8gKSjtaMIqj:Bob 8002
+  interface hash: fdbe6cbc22f10f06bde03655c4a7c687
+  ABI hash: 901e5c2cc328906f92c55e3971b8a001
+  export-list hash: 02dd65eae88b124ac6bf30bed4cbf9c6
+  orphan hash: 693e9af84d3dfcc71e640e005bdc5e2e
+  flag hash: 6afe13224aedeef930039c5dc659fa04
+  sig of: Nothing
+  used TH splices: False
+  where
+exports:
+  Bob.responseFor
+module dependencies:
+package dependencies: base-4.9.1.0* ghc-prim-0.5.0.0
+                      integer-gmp-1.0.0.1
+orphans: base-4.9.1.0:GHC.Base base-4.9.1.0:GHC.Float
+family instance modules: base-4.9.1.0:Control.Applicative
+                         base-4.9.1.0:Data.Either base-4.9.1.0:Data.Functor.Const
+                         base-4.9.1.0:Data.Monoid base-4.9.1.0:Data.Type.Equality
+                         base-4.9.1.0:GHC.Generics base-4.9.1.0:GHC.IO.Exception
+                         base-4.9.1.0:GHC.TypeLits
+import  -/  base-4.9.1.0:Data.Foldable 254e836c2d813d34e47feb29bb8d40ed
+import  -/  base-4.9.1.0:GHC.Base 4caea1123ecf4b46e27cbccd6d279377
+import  -/  base-4.9.1.0:GHC.List d11eb227c1c6fbfd89bb781d72eaea0d
+import  -/  base-4.9.1.0:GHC.Show eca5834daba3b6a2bbbe64ab52056707
+import  -/  base-4.9.1.0:Prelude 74b3e204395920329f6de9d97206abe9
+import  -/  ghc-prim-0.5.0.0:GHC.Classes 16d48e012d23eaef9bca91ccdd572c02
+61aca85b0d9f6ffe349c3e8416b69e0d
+  $trModule :: GHC.Types.Module
+  {- HasNoCafRefs, Strictness: m,
+     Unfolding: (GHC.Types.Module Bob.$trModule2 Bob.$trModule1) -}
+a9212b9ca4e1a5be3330a5ee2d43acb4
+  $trModule1 :: GHC.Types.TrName
+  {- HasNoCafRefs, Strictness: m1,
+     Unfolding: (GHC.Types.TrNameS "Bob"#) -}
+989747a8f727107af9e59bf9dbea181e
+  $trModule2 :: GHC.Types.TrName
+  {- HasNoCafRefs, Strictness: m1,
+     Unfolding: (GHC.Types.TrNameS
+                   "bob-0.0.0-GLaIRUqkttu8gKSjtaMIqj"#) -}
+062a6b16d2d1e602cb51d542db24210a
+  responseFor :: GHC.Base.String -> GHC.Base.String
+  {- Arity: 1, Strictness: <S,U>,
+     Unfolding: (\ (xs :: GHC.Base.String) ->
+                 case GHC.List.$wlenAcc @ GHC.Types.Char xs 0# of ww2 {
+                   DEFAULT
+                   -> case (Bob.responseFor_go2 xs)
+                             `cast`
+                           (Data.Monoid.N:All[0]) of wild {
+                        GHC.Types.False
+                        -> case (Bob.responseFor_go1 xs)
+                                  `cast`
+                                (Data.Monoid.N:All[0]) of wild1 {
+                             GHC.Types.False
+                             -> case (Bob.responseFor_go xs)
+                                       `cast`
+                                     (Data.Monoid.N:All[0]) of wild2 {
+                                  GHC.Types.False
+                                  -> case GHC.List.reverse1
+                                            @ GHC.Types.Char
+                                            (GHC.List.filter @ GHC.Types.Char Bob.responseFor5 xs)
+                                            (GHC.Types.[] @ GHC.Types.Char) of wild3 {
+                                       [] -> case GHC.List.badHead ret_ty [GHC.Types.Char] of {}
+                                       : x ds25
+                                       -> case x of wild4 { GHC.Types.C# x1 ->
+                                          case x1 of wild5 {
+                                            DEFAULT -> Bob.responseFor4
+                                            '?'# -> Bob.responseFor3 } } }
+                                  GHC.Types.True -> Bob.responseFor2 }
+                             GHC.Types.True -> Bob.responseFor4 }
+                        GHC.Types.True -> Bob.responseFor1 }
+                   0# -> Bob.responseFor1 }) -}
+f469886e62ccbf724211a86ef1ea6bd6
+  responseFor1 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Fine. Be that way!"#) -}
+26d96e3fe8a8e6b368a038eb598d43c2
+  responseFor2 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Whoa, chill out!"#) -}
+bc7693cb17bcfa63e96ab888bd19c0c5
+  responseFor3 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Sure."#) -}
+bbaf904f6802d53b225c8a6a3e71c4ce
+  responseFor4 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Whatever."#) -}
+3d2a5c447fb56622183c0da43657e440
+  responseFor5 :: GHC.Types.Char -> GHC.Types.Bool
+  {- Arity: 1, HasNoCafRefs, Strictness: <S(S),1*U(1*U)>,
+     Unfolding: InlineRule (1, True, False)
+                (\ (ds25 :: GHC.Types.Char) ->
+                 case ds25 of wild { GHC.Types.C# x ->
+                 case x of wild1 {
+                   DEFAULT -> GHC.Types.True ' '# -> GHC.Types.False } }) -}
+473eb8eb971fdb02fa698d3376e88264
+  responseFor_go :: [GHC.Types.Char] -> Data.Monoid.All
+  {- Arity: 1, Strictness: <S,1*U> -}
+7429a90c96db36e13bd1dc498c18c959
+  responseFor_go1 :: [GHC.Types.Char] -> Data.Monoid.All
+  {- Arity: 1, Strictness: <S,1*U> -}
+fc2e5546cb73d65e697d8a7502b5119e
+  responseFor_go2 :: [GHC.Types.Char] -> Data.Monoid.All
+  {- Arity: 1, HasNoCafRefs, Strictness: <S,1*U> -}
+vectorised variables:
+vectorised tycons:
+vectorised reused tycons:
+parallel variables:
+parallel tycons:
+trusted: safe
+require own pkg trusted: False
+
